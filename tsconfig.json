@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"rootDir": "./",
+		"outDir": "dist",
+		"target": "ES2022",
+		"module": "CommonJS",
+		"declaration": true
+		// "moduleResolution": "node",
+	},
+	"files": ["validJson.ts"],
+	"include": ["."]
+}
